@@ -3,20 +3,20 @@
 Nom | Level | Map | Fait ?
 -|-|-|-
 Chromatic Lancelier|5|Spring Meadows|OUI
-Chromatic Troubadour|10|Flying Waters|
-Chromatic Gault|15|Stone Wave Cliffs|
-Chromatic Hexga|15|Stone Wave Cliffs Cave|
-Chromatic Bruler|20|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=11&code=mapA>)|
-Chromatic Abbest|20|Abbest Cave|
-Chromatic Ballet|20|Falling Leaves|
-Chromatic Orphelin|25|Yellow Harvest|
-Chromatic Luster|25|Forgotten Battlefield|
-Chromatic Jar|25|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=84&code=mapA>)|
-Chromatic Danseuse|30|Old Lumiere|
-Chromatic Ramasseur|35|Visages|
-Chromatic Greatsword Cultist|35|Sirene|
-Chromatic Reaper Cultist|35|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=211&code=mapA>)|
-Chromatic Moissonneuse|35|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=237&code=mapA>)|
+Chromatic Troubadour|10|Flying Waters|OUI
+Chromatic Gault|15|Stone Wave Cliffs|OUI
+Chromatic Hexga|15|Stone Wave Cliffs Cave|OUI
+Chromatic Bruler|20|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=11&code=mapA>)|OUI
+Chromatic Abbest|20|Abbest Cave|NON
+Chromatic Ballet|20|Falling Leaves|OUI
+Chromatic Orphelin|25|Yellow Harvest|PAS SÛR
+Chromatic Luster|25|Forgotten Battlefield|OUI
+Chromatic Jar|25|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=84&code=mapA>)|OUI
+Chromatic Danseuse|30|Old Lumiere|OUI
+Chromatic Ramasseur|35|Visages|NON
+Chromatic Greatsword Cultist|35|Sirene|NON
+Chromatic Reaper Cultist|35|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=211&code=mapA>)|OUI
+Chromatic Moissoneuse|35|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=237&code=mapA>)|OUI
 Chromatic Bourgeon|40|The Monolith|
 Chromatic Clair Obscur|40|The Monolith|
 Chromatic Glissando|55|Sirene's Dress|

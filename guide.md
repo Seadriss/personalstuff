@@ -49,7 +49,7 @@ ESOTERIC RUINS - PORTIER
 **Serpentphare**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (WORLD BOSS) - Lvl 80 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=280&code=mapA>)  
 **Painter's Workshop**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 80 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=195&code=mapA>)  
 **Flying Manor**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE & STORY) - Lvl 85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=247&code=mapA>)  
-**Renoir's Draft**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE & STORY) - Lvl 85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=297&code=mapA>)  
+**Renoir's Draft**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE & STORY) - Lvl 85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=297&code=mapA>)  
 
 ## SOLUTIONS :
 <details>  <summary>The Flying Casino</summary> Parle en tant que Monoco </details>  

@@ -7,7 +7,7 @@ Chromatic Troubadour|10|Flying Waters|OUI
 Chromatic Gault|15|Stone Wave Cliffs|OUI
 Chromatic Hexga|15|Stone Wave Cliffs Cave|OUI
 Chromatic Bruler|20|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=11&code=mapA>)|OUI
-Chromatic Abbest|20|Abbest Cave|NON
+Chromatic Abbest|20|Abbest Cave|OUI
 Chromatic Ballet|20|Falling Leaves|OUI
 Chromatic Orphelin|25|Yellow Harvest|OUI
 Chromatic Luster|25|Forgotten Battlefield|OUI

@@ -20,12 +20,12 @@ ESOTERIC RUINS - PORTIER
 - J'ai essayé de faire un pathing qui fait un équilibre entre progression de level et progresssion narrative
 
 ## PARTIE 1 (ACTE 3) :
-**Endless Tower**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 50~85 (à utiliser pour pex si retard, sinon risque d'overlevel)
+**Endless Tower**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 50~85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=94&code=mapA>) (à utiliser pour pex si retard, sinon risque d'overlevel)
 
 **Flying Casino**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(EXPLORATION) - Lvl 50 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=281&code=mapA>)  
-**Sacred River**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(QUÊTE COMPAGNION) -  Lvl 55 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=157&code=mapA>)  
-**Sirene's Dress**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(QUÊTE COMPAGNION) - Lvl 55 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=251&code=mapA>)  
-**The Reacher**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(QUÊTE COMPAGNION) - Lvl 55 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=321&code=mapA>)  
+**Sacred River**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(QUÊTE COMPAGNON) -  Lvl 55 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=157&code=mapA>)  
+**Sirene's Dress**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(QUÊTE COMPAGNON) - Lvl 55 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=251&code=mapA>)  
+**The Reacher**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(QUÊTE COMPAGNON) - Lvl 55 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=321&code=mapA>)  
 **The Canvas**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(QUÊTE MANOIR) - Lvl 55 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=204&code=mapA>)  
 **Crimson Forest**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 60 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=95&code=mapA>)  
 **Sprong**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (WORLD BOSS & PICTO OP) - Lvl 60 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=105&code=mapA>)  

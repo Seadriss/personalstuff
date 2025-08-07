@@ -40,16 +40,16 @@ ESOTERIC RUINS - PORTIER
 
 ## PARTIE 2 (POST-GAME) :
 **Dark Gestral Arena**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 70 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=246&code=mapA>)  
-**The Crows**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 70 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=174&code=mapA>)  
+**The Crows**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 70 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=174&code=mapA>)  
 **Endless Night Sanctuary**&nbsp;&nbsp;(CHALLENGE) - Lvl 70 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=260&code=mapA>)  
-**The Chosen Path**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 70 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=158&code=mapA>)  
-**Isle of the Eyes**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 70 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=304&code=mapA>)  
-**Dark Shores**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 75 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=19&code=mapA>)  
-**Sunless Cliffs**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 75 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=296&code=mapA>)  
-**Serpentphare**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (WORLD BOSS) - Lvl 80 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=280&code=mapA>)  
+**The Chosen Path**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 70 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=158&code=mapA>)  
+**Isle of the Eyes**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 70 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=304&code=mapA>)  
+**Dark Shores**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 75 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=19&code=mapA>)  
+**Sunless Cliffs**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 75 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=296&code=mapA>)  
+**Serpentphare**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (WORLD BOSS) - Lvl 80 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=280&code=mapA>)  
 **Painter's Workshop**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 80 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=195&code=mapA>)  
-**Flying Manor**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE & STORY) - Lvl 85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=247&code=mapA>)  
-**Renoir's Draft**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE & STORY) - Lvl 85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=297&code=mapA>)  
+**Flying Manor**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE & STORY) - Lvl 85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=247&code=mapA>)  
+**Renoir's Draft**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE & STORY) - Lvl 85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=297&code=mapA>)  
 
 ## SOLUTIONS :
 <details>  <summary>The Flying Casino</summary> Parle en tant que Monoco </details>  

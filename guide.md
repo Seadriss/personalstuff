@@ -18,6 +18,7 @@ ESOTERIC RUINS - PORTIER
 - Ce guide ne contient que les trucs auxquels tu n'avais pas accès sans le vol (à 1 ou 2 exceptions)
 - Je n'y ai pas mis les trucs genre plage Gestral, ni les world mini boss (chromatiques, etc)
 - J'ai essayé de faire un pathing qui fait un équilibre entre progression de level et progresssion narrative
+- Certains trucs sont un peu des puzzle, j'ai mis leur solution dans une section à la fin du guide, sous forme de spoilers
 
 ## PARTIE 1 (ACTE 3) :
 **Endless Tower**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 50~85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=94&code=mapA>) (à utiliser pour pex si retard, sinon risque d'overlevel)
@@ -46,7 +47,12 @@ ESOTERIC RUINS - PORTIER
 **Dark Shores**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 75 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=19&code=mapA>)  
 **Sunless Cliffs**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 75 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=296&code=mapA>)  
 **Serpentphare**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (WORLD BOSS) - Lvl 80 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=280&code=mapA>)  
-**Painter's Workshop**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 80 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=195&code=mapA>)  
+**Painter's Workshop**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE) - Lvl 80 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=195&code=mapA>)  
 **Flying Manor**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE & STORY) - Lvl 85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=247&code=mapA>)  
 **Renoir's Draft**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(CHALLENGE & STORY) - Lvl 85 [Map](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=297&code=mapA>)  
 
+## SOLUTIONS :
+<details>  <summary>The Flying Casino</summary> Parle en tant que Monoco </details>  
+<details>  <summary>The Canvas</summary> Prend la peinture. Cadre vide dans le manoir, entrée, escalier qui monte à droite. </details>
+<details>  <summary>The Crows</summary> Tire sur les corbeaux. </details>
+<details>  <summary>Isle of the Eyes</summary> Tire sur les trois yeux de contortionistes. </details>

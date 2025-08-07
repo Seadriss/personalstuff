@@ -10,7 +10,7 @@ STONE QUARRY - TROUBADOUR
 ESOTERIC RUINS - PORTIER
 
 ### NE PAS OUBLIER :
-- Monter la relation au camp pour débloquer les quêtes
+- Monter la relation au camp pour débloquer les quêtes 
 - Le marchand Gestral dans leur village file des Lumina quand tu lui montre les journaux
 - En parlant de marchands, tes gains de chroma vont être d'un ordre de grandeur supérieur, worth de revisiter les marchands et vider leur stocks
 

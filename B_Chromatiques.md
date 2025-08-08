@@ -13,11 +13,11 @@ Chromatic Orphelin|25|Yellow Harvest|OUI
 Chromatic Luster|25|Forgotten Battlefield|OUI
 Chromatic Jar|25|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=84&code=mapA>)|OUI
 Chromatic Danseuse|30|Old Lumiere|OUI
-Chromatic Ramasseur|35|Visages|NON
-Chromatic Greatsword Cultist|35|Sirene|NON
+Chromatic Ramasseur|35|Visages|OUI
+Chromatic Greatsword Cultist|35|Sirene|OUI
 Chromatic Reaper Cultist|35|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=211&code=mapA>)|OUI
 Chromatic Moissoneuse|35|[The Continent](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=237&code=mapA>)|OUI
-Chromatic Bourgeon|40|The Monolith|
+Chromatic Bourgeon|40|The Monolith|OUI
 Chromatic Clair Obscur|40|The Monolith|
 Chromatic Glissando|55|Sirene's Dress|
 Chromatic Braseleur|55|The Reacher|

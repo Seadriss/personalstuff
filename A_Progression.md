@@ -25,6 +25,7 @@ ESOTERIC RUINS - PORTIER
 Nom | Type | Level | Map
 -|-|-|-
 **Endless Tower** | (CHALLENGE)  | 50~85 | [Lien](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=94&code=mapA>)
+**The Manor** | (ENTREE MANOIR)  | 50 | [Lien](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=322&code=mapA>)
 **Flying Casino** | (EXPLORATION)  | 50 | [Lien](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=281&code=mapA>)
 **Sacred River** | (QUÊTE COMPAGNON) | 55 | [Lien](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=157&code=mapA>)
 **Sirene's Dress** | (QUÊTE COMPAGNON)  | 55 | [Lien](<https://expedition33.wiki.fextralife.com/Interactive+Map?id=251&code=mapA>)

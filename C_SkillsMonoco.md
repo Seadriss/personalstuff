@@ -19,7 +19,7 @@ Contorsionniste Blast | Visages | OUI
 Creation Void | Renoir's Draft |
 Cruler Barrier | Continent (Sud de Monoco Station) | OUI
 Cultist Blood | Continent (Nord-ouest de Monoco Station) | OUI
-Cultists Slashes | Continent (Nord-ouest de Monoco Station) |
+Cultists Slashes | Continent (Nord-ouest de Monoco Station) | OUI
 Danseusse Waltz | Frozen Hearts | OUI
 Demineur Thunder | Continent (Sud de Monoco Station) | OUI
 Duallist Storm | Endless Tower ou Flying Manor |
